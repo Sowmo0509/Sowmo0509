@@ -1,4 +1,10 @@
 <div align="center">
+  <img height="240" src="https://i.imgur.com/CUfpTVr.jpeg"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://linkedin.com/in/shamswalisowmo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2a2a3a&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
