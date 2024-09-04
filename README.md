@@ -33,11 +33,15 @@
 
 ###
 
+<h6 align="center">https://ahmedshamswali.com</h6>
+
+###
+
 <h1 align="center">from design to development</h1>
 
 ###
 
-<p align="center">https://ahmedshamswali.com<br>from real world idea and solution, i design and develop products that make people lives better.</p>
+<p align="center">from real world idea and solution, i design and develop products that make people lives better.</p>
 
 ###
 
