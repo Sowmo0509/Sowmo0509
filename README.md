@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170" src="https://i.imgur.com/CUfpTVr.jpeg"  />
+  <img height="240" src="https://i.imgur.com/CUfpTVr.jpeg"  />
 </div>
 
 ###
@@ -37,7 +37,7 @@
 
 ###
 
-<p align="center">from real world idea and solution, i design and develop products that make people lives better.</p>
+<p align="center">https://www.ahmedshamswali.com<br>from real world idea and solution, i design and develop products that make people lives better.</p>
 
 ###
 
