@@ -37,7 +37,7 @@
 
 ###
 
-<p align="center">https://www.ahmedshamswali.com<br>from real world idea and solution, i design and develop products that make people lives better.</p>
+<p align="center">https://ahmedshamswali.com<br>from real world idea and solution, i design and develop products that make people lives better.</p>
 
 ###
 
