@@ -33,7 +33,7 @@
 
 ###
 
-<h6 align="center">𝗁𝗍𝗍𝗉𝗌://𝖺𝗁𝗆𝖾𝖽𝗌𝗁𝖺𝗆𝗌𝗐𝖺𝗅𝗂.𝖼𝗈𝗆</h6>
+<h6 align="center">https://ahmedshamswali.com</h6>
 
 ###
 
