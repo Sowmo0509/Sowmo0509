@@ -2,6 +2,10 @@
   <img height="170" src="https://i.imgur.com/CUfpTVr.jpeg"  />
 </div>
 
+<head>
+ <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+</head>
+
 ###
 
 <div align="center">
@@ -37,7 +41,7 @@
 
 ###
 
-<h1 align="center">from design to development</h1>
+<h1 align="center" style="font-family: 'Oswald', sans-serif;">from design to development</h1>
 
 ###
 
@@ -62,13 +66,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="4" />
@@ -85,6 +82,13 @@
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
