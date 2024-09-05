@@ -62,7 +62,6 @@
 ###
 
 <div align="left">
-  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -177,7 +176,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</h4>
+<h4 align="left">⚈ 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</h4>
 
 ###
 
