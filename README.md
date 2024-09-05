@@ -77,6 +77,7 @@
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
