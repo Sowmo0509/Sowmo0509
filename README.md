@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">about me</h3>
+<h3 align="left">𝗮𝗯𝗼𝘂𝘁 𝗺𝗲</h3>
 
 ###
 
