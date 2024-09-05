@@ -2,10 +2,6 @@
   <img height="170" src="https://i.imgur.com/CUfpTVr.jpeg"  />
 </div>
 
-<head>
- <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
-</head>
-
 ###
 
 <div align="center">
@@ -41,7 +37,7 @@
 
 ###
 
-<h1 align="center" style="font-family: 'Oswald', sans-serif;">from design to development</h1>
+<h1 align="center">𝗳𝗿𝗼𝗺 𝗱𝗲𝘀𝗶𝗴𝗻 𝘁𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</h1>
 
 ###
 
