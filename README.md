@@ -37,7 +37,7 @@
 
 ###
 
-<h1 align="center">𝗳𝗿𝗼𝗺 𝗱𝗲𝘀𝗶𝗴𝗻 𝘁𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁</h1>
+<h1 align="center">from design to development</h1>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">about Me</h3>
+<h3 align="left">about me</h3>
 
 ###
 
