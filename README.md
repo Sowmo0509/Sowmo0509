@@ -37,27 +37,27 @@
 
 ###
 
-<h1 align="center">𝖿𝗋𝗈𝗆 𝖽𝖾𝗌𝗂𝗀𝗇 𝗍𝗈 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍</h1>
+<h1 align="center">from design to development</h1>
 
 ###
 
-<p align="center">𝖿𝗋𝗈𝗆 𝗋𝖾𝖺𝗅 𝗐𝗈𝗋𝗅𝖽 𝗂𝖽𝖾𝖺 𝖺𝗇𝖽 𝗌𝗈𝗅𝗎𝗍𝗂𝗈𝗇, 𝗂 𝖽𝖾𝗌𝗂𝗀𝗇 𝖺𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌 𝗍𝗁𝖺𝗍 𝗆𝖺𝗄𝖾 𝗉𝖾𝗈𝗉𝗅𝖾 𝗅𝗂𝗏𝖾𝗌 𝖻𝖾𝗍𝗍𝖾𝗋</p>
+<p align="center">from real world idea and solution, i design and develop products that make people lives better.</p>
 
 ###
 
-<h3 align="left">𝗮𝗯𝗼𝘂𝘁 𝗺𝗲</h3>
+<h3 align="left">about Me</h3>
 
 ###
 
-<p align="left">𝖺 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 𝗐𝖾𝖻 𝖺𝗇𝖽 𝗆𝗈𝖻𝗂𝗅𝖾 𝖺𝗉𝗉𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖺𝗇𝖽 𝖽𝖾𝗌𝗂𝗀𝗇𝖾𝗋, 𝖼𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝖻𝗎𝗀𝗌 𝗌𝗎𝖼𝖼𝖾𝗌𝗌𝖿𝗎𝗅𝗅𝗒 𝗌𝗂𝗇𝖼𝖾 2017</p>
+<p align="left">a full stack web and mobile application developer and designer, creating bugs successfully since 2017</p>
 
 ###
 
-<h3 align="left">𝘀𝗸𝗶𝗹𝗹𝘀</h3>
+<h3 align="left">skills</h3>
 
 ###
 
-<h4 align="left">⚈ 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀</h4>
+<h4 align="left">⚈ languages</h4>
 
 ###
 
@@ -68,28 +68,28 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="4" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
 
-<h4 align="left">⚈ 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱</h4>
+<h4 align="left">⚈ frontend</h4>
 
 ###
 
@@ -109,11 +109,15 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
 </div>
 
 ###
 
-<h4 align="left">⚈ 𝗯𝗮𝗰𝗸𝗲𝗻𝗱</h4>
+<h4 align="left">⚈ backend</h4>
 
 ###
 
@@ -133,7 +137,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲</h4>
+<h4 align="left">⚈ database</h4>
 
 ###
 
@@ -161,7 +165,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗱𝗲𝘃𝗼𝗽𝘀</h4>
+<h4 align="left">⚈ devops</h4>
 
 ###
 
@@ -177,7 +181,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</h4>
+<h4 align="left">⚈ application</h4>
 
 ###
 
@@ -191,7 +195,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗼𝘁𝗵𝗲𝗿𝘀</h4>
+<h4 align="left">⚈ others</h4>
 
 ###
 
@@ -215,11 +219,13 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
   <img width="4" />
   <img src="https://cdn.simpleicons.org/subversion/809CC9" height="40" alt="subversion logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<h4 align="left">⚈ 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲𝘀</h4>
+<h4 align="left">⚈ creatives</h4>
 
 ###
 
@@ -241,7 +247,7 @@
 
 ###
 
-<h4 align="left">⚈ 𝗶𝗱𝗲</h4>
+<h4 align="left">⚈ ide</h4>
 
 ###
 
@@ -261,7 +267,7 @@
 
 ###
 
-<h3 align="left">𝗴𝗶𝘁𝗵𝘂𝗯 𝘀𝘁𝗮𝘁𝘀</h3>
+<h3 align="left">github stats :</h3>
 
 ###
 
